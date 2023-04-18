@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**VishalZ123/VishalZ123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <div id="app">Hey There!! 👋👋</div>
+    <script
+      async
+      src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r123/three.module.js"
+    ></script>
 
-Here are some ideas to get you started:
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r123/three.module.js"
+        }
+      }
+    </script>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <script type="module" src="./main.js">
+        // write script here if Live Server extension is not present or not using a live server
+        // remove src attribute
+    </script>
+    

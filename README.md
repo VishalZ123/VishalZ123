@@ -34,8 +34,4 @@ Welcome to my GitHub profile! I am an App and Web developer and a final year stu
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=VishalZ123&theme=onedark)
 
-## 📫 How to reach me
-
-- Email: [yadav.40@iitj.ac.in](mailto:yadav.40@iitj.ac.in)
-- Website: [Website](https://portfolio-zeheral.vercel.app/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vishal-yadav-9871451b0/)
+---

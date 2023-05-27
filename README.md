@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am an App and Web developer and a final year stu
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=VishalZ123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VishalZ123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalZ123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalZ123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=VishalZ123&theme=onedark)
 

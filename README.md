@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal 👋
 
-Welcome to my GitHub profile! I am an App and Web developer and a final year student t IIT Jodhpur. My interest are Web Development and App Development. In my free time, I love to click photos 📸.
+Welcome to my GitHub profile! I am an App and Web developer and a final year student IIT Jodhpur. My interest are Web Development and App Development. In my free time, I love to click photos 📸.
 
 ## 🌐 Social
 [![Linkedin: [Your LinkedIn]](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LinkedIn)](https://www.linkedin.com/in/vishal-yadav-9871451b0/)

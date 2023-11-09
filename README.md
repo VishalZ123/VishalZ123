@@ -1,5 +1,4 @@
-# Hi there, I'm Vishal 👋
-
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Vishal%20👋!&fontAlign=50&fontAlignY=40&color=gradient)
 Welcome to my GitHub profile! I am an App and Web developer and a final year student t IIT Jodhpur. My interest are Web Development and App Development. In my free time, I love to click photos 📸.
 
 ## 🌐 Social
